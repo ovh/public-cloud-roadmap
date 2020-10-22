@@ -4,9 +4,9 @@ This repository is part of an upcoming serie, covering all services of OVHCloud 
 
 ## How to use
 - You can consult [the project board](https://github.com/mhurtrel/containers-orchestration-roadmap/projects/1 "the project board") to **find out the current features planned** in the backlog
-- You can **"watch" a given feature** to get email notifications when it is modified or moves in the workflow
+- You can **watch a given feature** to get email notifications when it is modified or moves in the workflow
 - You can **comment or vote** for listed features  to influence or specifications and prioritization
-- You can** suggest a new issue** to the backlog 
+- You can **suggest a new issue** to the backlog 
 
 ## Workflow
 - New issues will be considered typically within a week and may enter **Backlog** if they correspond to our product strategy.
