@@ -11,7 +11,7 @@ This repository is part of an upcoming serie, covering all services of OVHCloud 
 ## Workflow
 - New issues will be considered typically within a week and may enter **Backlog** if they correspond to our product strategy.
 - We regularly commit to new items on the backlog. "**Comitted/Being developped**" column means that the feature has been sized and is planned for the **next 3-12 months**
-- When these elements approach production, they are moved to "**Coming soon**". At that stage, specification are final, and the feature will hit GA usually in less than** 2 months**
+- When these elements approach production, they are moved to "**Coming soon**". At that stage, specification are final, and the feature will hit GA usually in less than **2 months**
 - We will keep new features for a couple of months after their release in the "**Changelog**" column for follow-up.
 
 
