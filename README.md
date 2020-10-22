@@ -21,7 +21,7 @@ This repository is part of an upcoming serie, covering all services of OVHCloud 
 - We are interested in your use case associated and the current workaround you have found if they exist. Please comment your own issue with those details if possible. 
 
 ## Notes/Disclaimer
-- mKS stands for OVHcloud Managed Kubernetes Service, our free managed offering orchestrating public cloud infrastructure with CNCF software conformance.
-- PR stands for OVHcloud Managed Private Regsitry, our all-inclusive Manager Harbor container and artifact registry.
+- MKS stands for OVHcloud Managed Kubernetes Service, our free managed offering orchestrating public cloud infrastructure with CNCF software conformance.
+- MPR stands for OVHcloud Managed Private Regsitry, our all-inclusive Manager Harbor container and artifact registry.
 - This public roadmap is purely indicative, and we may surprise you with additionnal strategic feature that we choose to keep confidential for some reasons.
 - We may delete any innapropriate content at any time.
