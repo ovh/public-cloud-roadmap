@@ -3,7 +3,7 @@
 This repository will progressively cover all services of OVHCloud Public Cloud Ecosystem. (Compute, storage, network sections to be added soon.)
 
 ## How to use
-- You can consult the board of your choice to **find out the current features planned** in the backlog
+- You can consult the board of your choice to **find out the current features planned** in the backlog :
 [Orchestration and Containers board ](https://github.com/mhurtrel/containers-orchestration-roadmap/projects/1 "Orchestration and Containers board")
 [Databases, Data Analytics and AI board ](https://github.com/mhurtrel/containers-orchestration-roadmap/projects/2 "Databases, Data Analytics and AI board")
 - You can **watch a given feature** to get email notifications when it is modified or moves in the workflow
