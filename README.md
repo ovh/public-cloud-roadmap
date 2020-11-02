@@ -1,4 +1,4 @@
-# (Beta) OVHcloud "Containers and Orchestration" Public Roadmap
+# (Beta) OVHcloud Public CLoud Roadmap
 
 This repository will progressively cover all services of OVHCloud Public Cloud Ecosystem. (Compute, storage, network sections to be added soon.)
 
