@@ -1,4 +1,4 @@
-# (Beta) OVHcloud Public CLoud Roadmap
+# (Beta) OVHcloud Public Cloud Roadmap
 
 This repository will progressively cover all services of OVHCloud Public Cloud Ecosystem.
 
