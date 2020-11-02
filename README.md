@@ -1,6 +1,6 @@
 # (Beta) OVHcloud Public CLoud Roadmap
 
-This repository will progressively cover all services of OVHCloud Public Cloud Ecosystem. (Compute, storage, network sections to be added soon.)
+This repository will progressively cover all services of OVHCloud Public Cloud Ecosystem.
 
 ## How to use
 - You can consult the board of your choice to **find out the current features planned** in the backlog :
