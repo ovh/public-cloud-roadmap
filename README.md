@@ -1,4 +1,4 @@
-# (Beta) OVHcloud Public Cloud Roadmap
+# OVHcloud Public Cloud Roadmap
 
 ## How to use
 - You can consult the board of your choice to **find out the current features planned** in the backlog :
