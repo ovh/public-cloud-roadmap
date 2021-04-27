@@ -15,12 +15,12 @@
 - We will keep new features for a couple of months after their release in the "**Changelog**" column for follow-up.
 
 ## Proposing a new feature
-- Consider only new features (aka functionnal enhancements, new localizations, UX improvments). Specific bugs or support should be open through  [the OVHcloud help center](https://help.ovhcloud.com/en-ie/ "the OVHcloud help center")
+- Consider only new features (aka functional enhancements, new localizations, UX improvments). Specific bug reports or support requests should be opened through  [the OVHcloud help center](https://help.ovhcloud.com/en-ie/ "the OVHcloud help center")
 - If you believe you've found a security issue in our service, please enter our [bug bounty programm ](https://yeswehack.com/programs/ovh#rules "bug bounty programm ")
 - Please consult [Existing issues](https://github.com/ovh/public-cloud-roadmap/issues "Existing issues") and [product documentation](https://docs.ovh.com/gb/en/ "product documentation") to avoid duplicates
-- Please describe the feature in the shortest possible way, ideally as a agile user story
+- Please describe the feature in the shortest possible way, ideally as an agile user story
 - We are interested in your use case associated and the current workaround you have found if they exist. Please comment your own issue with those details if possible. 
 
 ## Notes/Disclaimer
 - This public roadmap is purely indicative, and we may surprise you with additionnal strategic feature that we choose to keep confidential for some reasons.
-- We may delete any innapropriate content at any time.
+- We may delete any inappropriate content at any time.
