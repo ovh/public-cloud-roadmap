@@ -2,8 +2,10 @@
 
 ## How to use
 - You can consult the board of your choice to **find out the current features planned** in the backlog :
-[Compute, storage & Network ](https://github.com/ovh/public-cloud-roadmap/projects/3 "Compute, Storage and Network")[ Orchestration and Containers ](https://github.com/ovh/public-cloud-roadmap/projects/1 "Orchestration and Containers")
-[ Databases, Data Analytics and AI](https://github.com/ovh/public-cloud-roadmap/projects/2 "Databases, Data Analytics and AI board")
+[Compute, storage & Network ](https://github.com/ovh/public-cloud-roadmap/projects/3 "Compute, Storage and Network"), [ Orchestration and Containers ](https://github.com/ovh/public-cloud-roadmap/projects/1 "Orchestration and Containers"), 
+[Databases and Data Analytics](https://github.com/ovh/public-cloud-roadmap/projects/2 "Databases and Data Analytics board"), [AI and Machine learning](https://github.com/ovh/public-cloud-roadmap/projects/4 "AI and Machine learning board")
+
+[Looking for our VMware, Nutanix or Anthos Hosted Private Cloud roadmap ?](https://github.com/ovh/hosted-private-cloud-roadmap "OVHcloud VMware, Nutanix and Anthos Hosted Private Cloud")
 - You can **watch a given feature** to get email notifications when it is modified or moves forward
 - You can **comment or vote** for listed features to influence our specifications and prioritization
 - You can **suggest a new issue** to the backlog 
