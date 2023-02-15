@@ -7,7 +7,7 @@
 
 [Looking for our VMware, Nutanix or Anthos Hosted Private Cloud roadmap ?](https://github.com/ovh/hosted-private-cloud-roadmap "OVHcloud VMware, Nutanix and Anthos Hosted Private Cloud")
 
-[Looking for our Baremetal Dedicated Servers, OS and distributions, Storage or Network and Security roadmaps ?](https://github.com/ovh/infrastructure-roadmap/projects "OVHcloud Infrastructure : Baremetal servers, OSes, Storage, Network and Security")
+[Looking for our Baremetal Dedicated Servers, OS and distributions, Storage or Network and Security roadmaps ?](https://github.com/ovh/infrastructure-roadmap/projects?type=classic "OVHcloud Infrastructure : Baremetal servers, OSes, Storage, Network and Security")
 
 - You can **watch a given feature** to get email notifications when it is modified or moves forward
 - You can **comment or vote** for listed features to influence our specifications and prioritization
