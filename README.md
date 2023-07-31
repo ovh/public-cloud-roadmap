@@ -5,7 +5,7 @@
 [Compute, storage & Network ](https://github.com/ovh/public-cloud-roadmap/projects/3 "Compute, Storage and Network"), [ Orchestration and Containers ](https://github.com/ovh/public-cloud-roadmap/projects/1 "Orchestration and Containers"), 
 [Databases and Data Analytics](https://github.com/ovh/public-cloud-roadmap/projects/2 "Databases and Data Analytics board"), [AI and Machine learning](https://github.com/ovh/public-cloud-roadmap/projects/4 "AI and Machine learning board")
 
-[Looking for our VMware, Nutanix or Anthos Hosted Private Cloud roadmap ?](https://github.com/ovh/hosted-private-cloud-roadmap "OVHcloud VMware, Nutanix and Anthos Hosted Private Cloud")
+[Looking for our VMware or Nutanix Hosted Private Cloud roadmap ?](https://github.com/ovh/hosted-private-cloud-roadmap "OVHcloud VMware and Nutanix Hosted Private Cloud")
 
 [Looking for our Baremetal Dedicated Servers, OS and distributions, Storage or Network and Security roadmaps ?](https://github.com/ovh/infrastructure-roadmap/projects?type=classic "OVHcloud Infrastructure : Baremetal servers, OSes, Storage, Network and Security")
 
