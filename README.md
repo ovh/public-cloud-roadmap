@@ -6,7 +6,7 @@ This includes a detailed view for our Public Cloud IAAS, container and data serv
 
 Note that currently, [VMware or Nutanix Hosted Private Cloud products](https://github.com/ovh/hosted-private-cloud-roadmap "OVHcloud VMware and Nutanix Hosted Private Cloud") and [Baremetal Dedicated Servers, OS and distributions, Storage and Network?](https://github.com/ovh/infrastructure-roadmap/projects?type=classic "OVHcloud Infrastructure : Baremetal servers, OSes, Storage, Network and Security") are deplayed is their own project views?
 
-- You can **subsribe to a given issue** to get email notifications when the feature is updated or moves forward
+- You can **subscribe to a given issue** to get email notifications when the feature is updated or moves forward
 - You can **comment or vote** for listed features to influence our specifications and prioritization
 - You can **suggest a new issue** to the backlog 
 
