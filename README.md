@@ -15,7 +15,8 @@ This includes a detailed view for our Public Cloud IAAS, container and data serv
 - Please consult [Existing issues](https://github.com/ovh/public-cloud-roadmap/issues "Existing issues") and [product documentation](https://help.ovhcloud.com/csm/en-gb-documentation?id=kb_home "product documentation") to avoid duplicates
 - Please describe the feature in the shortest possible way, ideally as an agile user story.
 - We are interested in your use case associated and the current workaround you have found if they exist. Please comment your own issue with those details if possible.
-[Propose a new feature request (aka issue)](https://github.com/ovh/public-cloud-roadmap/issues/new/choose)
+
+[Propose a new feature request - aka issue](https://github.com/ovh/public-cloud-roadmap/issues/new/choose)
 
 
 ## Notes/Disclaimer
