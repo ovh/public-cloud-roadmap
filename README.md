@@ -17,6 +17,7 @@ This includes a detailed view for our Public Cloud IAAS, container and data serv
 - We are interested in your use case associated and the current workaround you have found if they exist. Please comment your own issue with those details if possible.
 
 [ 🆕 Propose a new feature request - aka issue for Public Cloud](https://github.com/ovh/public-cloud-roadmap/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
+
 Note : you can also [create issues regarding infrastructure products external to our Public Cloud ecosystem here](https://github.com/ovh/infrastructure-roadmap/issues/new)
 
 ## Notes/Disclaimer
