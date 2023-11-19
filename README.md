@@ -18,13 +18,12 @@ This includes a detailed view for our Public Cloud IAAS, container and data serv
 
 [ 🆕 Propose a new feature request - aka issue for Public Cloud](https://github.com/ovh/public-cloud-roadmap/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
 
-Note : you can also create issues [regarding infrastructure products external to our Public Cloud ecosystem here](https://github.com/ovh/infrastructure-roadmap/issues/new) or [regarding Security, Identity and Operations here ](https://github.com/ovh/management-security-operations-roadmap/issues/new)
+Note : you can also create issues [regarding infrastructure products external to our Public Cloud ecosystem here](https://github.com/ovh/infrastructure-roadmap/issues/new)    [regarding Hosted Private Cloud here ](https://github.com/ovh/private-cloud-roadmap/issues/new) or [regarding Security, Identity and Operations here ](https://github.com/ovh/management-security-operations-roadmap/issues/new)
 
 ## Notes/Disclaimer
 - New issues will be considered typically within a week and may be marked as **Aknowledged** if they align with our product strategy.
 - We regularly commit to new items on the backlog. "**Prioritized**" column means that the feature has been sized and is planned for the **next 3 to 12 months**
 - When these elements approach production, they are moved to "**Planned**". At that stage, specification are final, and the feature will be release usually in less than **3 months**
 - We will keep new features for a couple of months after their release in the "**Done**" column for follow-up. Note that most feature may also be considered "**Partially released**" if they are accessible under beta terms and/or miss UI or Terraform integration for example.
-- Currently, [VMware or Nutanix Hosted Private Cloud products](https://github.com/ovh/private-cloud-provider/projects?type=classic) are using a specific project views.
 - This public roadmap is purely indicative, and we may surprise you with additionnal strategic feature that we choose to keep confidential for some reasons.
 - We may delete any inappropriate content at any time.
