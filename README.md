@@ -1,7 +1,7 @@
 # OVHcloud Cloud Roadmap and Changelog - Public Cloud issues
 
 ## Consulting roadmap and changelog
-OVHcloud now exposes a [central public roadmap and changelog for all its Public Cloud services as a GitHub Project](https://github.com/orgs/ovh/projects/16).
+OVHcloud now exposes a [central public roadmap and changelog for all its Cloud services as a GitHub Project](https://github.com/orgs/ovh/projects/16).
 This includes a detailed view for our Public Cloud IAAS, container and data services, additionnaly to transversal security, identity and operations services.
 
 [ ✅ View Changelog](https://github.com/orgs/ovh/projects/16/views/6) or [ 📅 View Roadmap](https://github.com/orgs/ovh/projects/16/views/1)
