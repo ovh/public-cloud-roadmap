@@ -18,3 +18,9 @@ assignees: ''
 As an OVHcloud customer using **[required existing product, or jsut public cloud in general]**
 I want **[this product or a new/other one]** to **[new feature or localisation]**
 so that **[this new use case(s) you can achieve]**
+
+Column1 | Column2
+-- | --
+Value1 | Value2
+Value3 | Value4
+etc | ...
